@@ -4,6 +4,7 @@ Requirements:
 Python 2.7
 PyQt4
 pyPdf
+Windows OS
 
 Thanks to qpdf for allowing usage of their software. I have not modified the qpdf software so it may be included here per their licensing agreement. The qpdf website is located here: http://qpdf.sourceforge.net/
 
